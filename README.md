@@ -28,7 +28,7 @@ projeto-api-cep/
 Clone o repositório e entre na pasta:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/projeto-api-cep.git
+git clone https://github.com/MarcelleAndradre/projeto-api-cep
 cd projeto-api-cep
 ```
 
