@@ -1,0 +1,23 @@
+[
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "cep": "01310-100",
+    "logradouro": "Avenida Paulista",
+    "bairro": "Bela Vista",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "cep": "69005-000",
+    "logradouro": "Centro (exemplo)",
+    "bairro": "Centro",
+    "localidade": "Manaus",
+    "uf": "AM"
+  }
+]
